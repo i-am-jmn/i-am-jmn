@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jonathan MONTMAIN (@i-am-jmn)
+- 👀 I’m interested in strongly-typed languages, Application binary interfaces, ...
+- 🌱 I’m currently learning Rust, AssemblyScript and WAT
+- 📫 Send me a mail at jmontmain@gmail.com
